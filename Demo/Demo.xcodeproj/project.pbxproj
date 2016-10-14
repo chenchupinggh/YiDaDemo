@@ -13,7 +13,6 @@
 		137C0ADD1DB0CA7B0068EA25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 137C0ADB1DB0CA7B0068EA25 /* Main.storyboard */; };
 		137C0ADF1DB0CA7B0068EA25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 137C0ADE1DB0CA7B0068EA25 /* Assets.xcassets */; };
 		137C0AE21DB0CA7B0068EA25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 137C0AE01DB0CA7B0068EA25 /* LaunchScreen.storyboard */; };
-		137C0AEB1DB0D6A70068EA25 /* avc.m in Sources */ = {isa = PBXBuildFile; fileRef = 137C0AEA1DB0D6A70068EA25 /* avc.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		137C0ADE1DB0CA7B0068EA25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		137C0AE11DB0CA7B0068EA25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		137C0AE31DB0CA7B0068EA25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		137C0AE91DB0D6A70068EA25 /* avc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avc.h; sourceTree = "<group>"; };
-		137C0AEA1DB0D6A70068EA25 /* avc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = avc.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,8 +67,6 @@
 				137C0AE01DB0CA7B0068EA25 /* LaunchScreen.storyboard */,
 				137C0AE31DB0CA7B0068EA25 /* Info.plist */,
 				137C0AD21DB0CA7B0068EA25 /* Supporting Files */,
-				137C0AE91DB0D6A70068EA25 /* avc.h */,
-				137C0AEA1DB0D6A70068EA25 /* avc.m */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -156,7 +151,6 @@
 			files = (
 				137C0ADA1DB0CA7B0068EA25 /* ViewController.m in Sources */,
 				137C0AD71DB0CA7B0068EA25 /* AppDelegate.m in Sources */,
-				137C0AEB1DB0D6A70068EA25 /* avc.m in Sources */,
 				137C0AD41DB0CA7B0068EA25 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
